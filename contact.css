@@ -1,0 +1,53 @@
+body
+{
+    margin: 0;
+    
+}
+#color1
+{
+    color:#1f9c9c;
+}body, html {
+    height: 100%;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("Images/36.jpg");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #color
+{
+    color:#FC766AFF;
+}
+#color3
+{
+  color: #CDB599FF;
+}
+#color4
+{
+  color: #9CC3D5FF;
+}
+.linking
+{
+  text-decoration: none;
+}
+.linking:hover
+{
+  color:blue;
+  text-decoration: none;
+ 
+  
+}
+@media only screen and (max-width:1080px)
+{
+  body{
+    font-size:40px;
+  }
+}

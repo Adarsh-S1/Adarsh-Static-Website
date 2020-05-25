@@ -1,0 +1,158 @@
+body
+{
+margin: 0;    
+}
+
+.hi
+{
+    font-weight: bold;
+    font-style: italic;
+    font-family:overpass;
+    padding-top: 100px;
+    font-size: 25px;
+    padding-left: 362px;
+
+   
+}
+.button
+{
+    margin-top: 70px;
+    margin-left: 256px;
+    padding-left: 17px;
+    padding-right: 17px;
+  background-color: #0275d8;
+  border-radius: 17%;
+   color: white;
+   border-color: #0275d8;
+}
+.button:hover
+{
+  border-radius: 20%;
+    background-color: white;
+    color: #0275d8;
+    border-color:#76528BFF ;
+  
+}
+.thanks:hover
+  { 
+    color:  #31328f;
+    font-weight: bold;
+    text-decoration: none;
+  }
+.img
+{
+  height: 350px;
+    width: 323px;
+    border-radius: 50%;
+    float: right;
+    margin-right: 133px;
+    margin-top: -50px;
+}
+ 
+
+.box
+{
+border: 4px;
+border-color: red;
+border-style: outset;
+width: 341px;
+margin-left: 143px;
+margin-top: 35px;
+padding-bottom: 7px;
+padding-top: 7px;
+}
+.boxtop
+{
+  font-size: 25px;
+  margin-left: 109px;
+  text-decoration: underline; 
+  font-weight: bold;
+  font-family: Garamond ;
+  
+}
+.boxbottom
+{
+ 
+  margin-left: 43px;
+  font-size: 22px;
+  font-family: Rockwell;
+  color: #F93822FF;
+}
+.scrll
+{
+  font-family:Cambria;
+  padding-top: 25px;
+  font-size: 17px;
+  font-style: italic;
+  color: #422057FF;
+}
+.mail
+{
+  margin-left: 473px;
+}
+.foot
+{
+  cursor: pointer;
+
+}		        
+@media only screen and (max-width:1130px)
+{
+.box
+{
+  border: 4px;
+  border-color: red;
+  border-style: outset;
+  width: 341px;
+  margin-left: 10px;
+  margin-top: 400px;
+  padding-bottom: 7px;
+  padding-top: 7px;
+}
+
+.img
+{
+  height: 350px;
+    width: 323px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 23px;
+    margin-top: 8px;
+}
+.hi
+{
+    font-weight: bold;
+    font-style: italic;
+    font-family:overpass;
+    padding-top: 100px;
+    font-size: 25px;
+    padding-left: 10px;
+
+   
+}
+.button
+{
+    margin-top: 70px;
+    margin-left: 163px;
+    padding-left: 17px;
+    padding-right: 17px;
+  background-color: #0275d8;
+  border-radius: 17%;
+   color: white;
+   border-color: #0275d8;
+}
+.mail
+{
+  margin-left: 95px;
+  
+}
+.mappp
+{
+  width: 360px;
+}
+.crd
+{
+  margin-left: -95px;
+}
+}
+
+
